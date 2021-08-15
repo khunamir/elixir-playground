@@ -3,7 +3,7 @@ use Mix.Config
 # Configure your database
 config :hello, Hello.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "amir",
   database: "hello_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
