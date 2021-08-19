@@ -3,7 +3,7 @@ use Mix.Config
 # Configure your database
 config :testauth, Testauth.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "amir",
   database: "testauth_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
